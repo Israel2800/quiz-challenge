@@ -17,7 +17,6 @@ A quiz with different types of coding questions, it let you know the difference 
 
 ![Screenshot when you finish the quiz.](images/screenshot-4.png)
 
-
 ## Website
 https://israel2800.github.io/quiz-challenge/
 
